@@ -1,0 +1,17 @@
+{
+  "name": "front-end-knowledge-system",
+  "version": "1.0.0",
+  "description": "前端知识体系搭建",
+  "main": "index.js",
+  "scirpt": {
+    "release": "standard-version"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $GIT_PARAMS"
+    }
+  },
+  "repository": "git@github.com:charmJiang/front-end-knowledge-system.git",
+  "author": "tomJiang <1219385811@qq.com>",
+  "license": "MIT"
+}
