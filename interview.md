@@ -20,6 +20,9 @@
   - 如何让01 + 0.2 === 0.3 [详细讲解](https://juejin.im/post/5b90e00e6fb9a05cf9080dff)
   - `var`, `let`,`const` 的区别
   - `var`,`let`,`const`原理
+- 对象
+  - 数组的方法 [js 数组详细操作方法及解析合集](https://juejin.cn/post/6844903614918459406)
+  - [判断2个对象是否相等](https://github.com/mqyqingfeng/Blog/issues/41)  [参考链接2](https://juejin.cn/post/6844903802298974221)
 - 原型链
   - `new`原理
   - [实现new](https://github.com/mqyqingfeng/Blog/issues/13)
@@ -30,12 +33,12 @@
   - 变量对象
   - 作用域链
   - 执行上下文栈
-  - 闭包
+  - [闭包](https://www.mdeditor.tw/pl/pjQR)
   - `this`
-  - `V8`垃圾回收机制
+  - [`V8`垃圾回收机制 ](https://my.oschina.net/LuckyWinty/blog/4662910)     [深入解读 V8 引擎的「并发标记」技术](https://www.oschina.net/translate/v8-javascript-engine)
 - 函数
   - `call`,`apply`,`bind`的实现原理
-  - 手写`call`,`apply`,`bind`
+  - 手写`call`,`apply`,`bind`  [call,apply](https://muyiy.cn/blog/3/3.3.html#call-%E5%92%8C-apply)  [bind](https://github.com/mqyqingfeng/Blog/issues/12)
   - 类数组对象与`arguments`
   - 高阶函数
   - 防抖和节流
@@ -68,6 +71,8 @@
 - 正则
 - 手写
   - `instanceof`
+- 其他
+  - url获取参数
 
 ### Vue
 
@@ -102,6 +107,16 @@
 
 ### Koa2
 
+- Koa的核心机制
+- 为什么要有洋葱模型
+- 中间的使用和理解
+- express，koa，egg区别
+- compose的实现
+- 某些接口允许跨域,某些不允许,如何实现?能不能使用koa2中间件的方式实现一下?
+- koa2中ctx.set的等价写法
+- koa-compose实现
+  - [KOA2 compose 串联中间件实现（洋葱模型）](https://juejin.cn/post/6844903688985657357)
+
 ### Mysql
 
 ### 面向未来
@@ -122,5 +137,5 @@
 
 - [达达前端个人web分享92道JavaScript面试题附加回答](https://juejin.cn/post/6913480482638266382?utm_source=gold_browser_extension)
 - [木易杨每天一题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-- 
+- [震惊！前端300基础面试题+答案、分类学习整理（良心制作）持续更新](https://juejin.cn/post/6914831351271292936)
 
