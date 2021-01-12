@@ -1,5 +1,3 @@
-
-
 ### HTMl+CSS
 
 ### Javascript
@@ -31,10 +29,29 @@
   - 原型链
 - 调用栈以及深入
   - 变量对象
+
   - 作用域链
+
   - 执行上下文栈
+
   - [闭包](https://www.mdeditor.tw/pl/pjQR)
+
+    ```javascript
+    闭包优点：
+    1.可以放一个变量保存在内存中，不被js的垃圾回收机制清除
+    2.可以避免变量的全局污染
+    3.可以定义模块，将操作函数暴露在外部，细节隐藏在模块内部
+    
+    闭包的缺点：
+    1.容易造成内存泄露
+    2.闭包对性能会产生负面影响，包括处理速度和内存消耗
+    
+    ```
+
+    
+
   - `this`
+
   - [`V8`垃圾回收机制 ](https://my.oschina.net/LuckyWinty/blog/4662910)     [深入解读 V8 引擎的「并发标记」技术](https://www.oschina.net/translate/v8-javascript-engine)
 - 函数
   - `call`,`apply`,`bind`的实现原理
@@ -42,8 +59,9 @@
   - 类数组对象与`arguments`
   - 高阶函数
   - 防抖和节流
+  - [请实现一个 add 函数，满足以下功能 add(1)(2)(3) // 6 add(1,2)(3) // 6](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/134)
 - 深浅拷贝的区别
-  - 深拷贝（多种方法）
+  - [深拷贝（多种方法）](https://muyiy.cn/blog/4/4.3.html#%E5%BC%95%E8%A8%80)
   - 使用广度和深度
 - 异步
   - 回调地狱
@@ -58,20 +76,26 @@
   - 手写`async...await`
   - `promise.all`错误处理，避免拿不到数据
 - 事件
+  
   - 事件代理
 - 事件循环
+  
   - 浏览器的事件循环（宏任务和微任务）
 - 模块化
   - `commonJs`,`AMD`的使用
   - `require`解决循环引用
 - `es6`
+  
   - `map`,`weakMap`,`Set`,``
 - DOM
+  
   - 
 - 正则
 - 手写
+  
   - `instanceof`
 - 其他
+  
   - url获取参数
 
 ### Vue
