@@ -194,6 +194,7 @@
 - 数组乱序（考察洗牌算法）
 - .[leetcode](https://www.nowcoder.com/jump/super-jump/word?word=leetcode) 找出数组中两个元素的和为target的组合
 - 场景题，写一个组件实现如下功能
+  
   - ![组件](https://uploadfiles.nowcoder.com/images/20200911/586453626_1599810735019_270011980CF0F7A390E5CCB99CACC540)
 - 找出数组中最大的连续子数组和
 - 实现加法函数使得sum(2)(3)和sum(2,3)都输出5
