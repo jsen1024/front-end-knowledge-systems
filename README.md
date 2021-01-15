@@ -18,7 +18,9 @@
 - [`var`、`let`、`const`区别](https://github.com/charmJiang/front-end-knowledge-systems/blob/main/javascript/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#8varletconst%E5%8C%BA%E5%88%AB)
 - [`var`、`let`、`const`原理](https://github.com/charmJiang/front-end-knowledge-systems/blob/main/javascript/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#9varletconst%E5%8E%9F%E7%90%86)
 
+### 2.函数
 
+- 深入浅出call和apply
 
 ### CSS
 
