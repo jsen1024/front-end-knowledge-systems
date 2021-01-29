@@ -744,15 +744,21 @@ CSS3中添加的新属性`animation`是用来为元素实现动画效果的，�
 
 ## 12.两列布局单列定宽单列自适应
 
+#### 　　[两端对齐](http://www.cnblogs.com/xiaohuochai/p/6274707.html)
 
+#### 　　[单列定宽单列自适应布局](http://www.cnblogs.com/xiaohuochai/p/5452865.html)
 
-## 13.两列自适应布局
+#### 　　[两列自适应布局](http://www.cnblogs.com/xiaohuochai/p/5454232.html)
 
-## 14.三列布局
+#### 　　[三列布局](http://www.cnblogs.com/xiaohuochai/p/5455905.html)
 
-## 15.三栏布局（圣杯和双飞翼布局）
+#### 　　[三栏式布局(所谓的圣杯和双飞翼布局)](http://www.cnblogs.com/xiaohuochai/p/5459587.html)
 
+#### 　　[等分布局](http://www.cnblogs.com/xiaohuochai/p/5456695.html)
 
+#### 　　[等高布局](http://www.cnblogs.com/xiaohuochai/p/5457127.html)
+
+#### 　　[全屏布局](http://www.cnblogs.com/xiaohuochai/p/5458068.html)
 
 ## 15.分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景。
 
