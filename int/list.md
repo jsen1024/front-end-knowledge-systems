@@ -24,7 +24,7 @@
 
 ### 
 
-![img](https://oscimg.oschina.net/oscnet/56505594-9899-4a8a-8e99-dc41679569bb.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143336.png)
 
 
 
@@ -192,7 +192,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 2. CSS 基础
 
-![img](https://oscimg.oschina.net/oscnet/a3fb74fd-7647-481c-8e8b-acb27b818aa0.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143347.png)
 
 - **position - CSS: Cascading Style Sheets | MDN** [81]
 - **position | CSS Tricks** [82]
@@ -225,7 +225,7 @@ for (macroTask of macroTaskQueue) {
 
 ### 
 
-![img](https://oscimg.oschina.net/oscnet/da1ae842-ce6a-4029-b1f6-2dc072d446c2.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143350.png)
 
 
 
@@ -325,7 +325,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 4. 工程化
 
-![img](https://oscimg.oschina.net/oscnet/702e99e4-d725-4b40-b0f0-efdaba32727c.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143353.png)
 
 
 
@@ -403,7 +403,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 5. 性能优化
 
-![img](https://oscimg.oschina.net/oscnet/175cb4cb-0121-4643-be27-b974069cf9f3.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143356.png)
 
 这个知识点不列文章啦，好多文章，列个知识点，动手搜一下吧 ~
 
@@ -456,7 +456,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 6. TypeScript
 
-![img](https://oscimg.oschina.net/oscnet/25c729a7-a293-440d-8295-5310fc174fc8.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143400.png)
 
 - [👉TypeScript 是什么](https://mp.weixin.qq.com/s?__biz=MzI3ODU4MzQ1MA==&mid=2247483786&idx=1&sn=e251062ce8e67dff8f490bc52dd0efdf&scene=21#wechat_redirect)
 - **为什么要在javascript中进行静态类型检查** [208]
@@ -479,7 +479,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 7. 网络
 
-![img](https://oscimg.oschina.net/oscnet/8b38c2d3-1c72-4a0a-88fa-7b7634975f0a.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143402.png)
 
 
 
@@ -547,7 +547,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 8. 设计模式
 
-![img](https://oscimg.oschina.net/oscnet/d49f4c0b-d813-4d93-b97a-ae6263fcf2a2.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143405.png)
 
 - **Javascript常用的设计模式详解** [252]
 - **JavaScript设计模式** [253]
@@ -560,7 +560,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 9. 数据结构/算法
 
-![img](https://oscimg.oschina.net/oscnet/40c0c0d2-9e5d-4832-bff1-23739a35b2ef.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143408.png)
 
 - **Linked Lists in JavaScript (ES6 code)** [258]
 - **DS with JS — Linked Lists — II** [259]
@@ -577,7 +577,7 @@ for (macroTask of macroTaskQueue) {
 
 ## 10. 安全
 
-![img](https://oscimg.oschina.net/oscnet/57afd6e0-fe74-4b5a-833a-d2baf66fd470.png)
+![img](https://gitee.com/vr2/images/raw/master/uPic/20210129143411.png)
 
 - **前端安全系列（一）：如何防止XSS攻击？** [268]
 - **前端安全系列（二）：如何防止CSRF攻击？** [269]
