@@ -823,7 +823,7 @@ for (macroTask of macroTaskQueue) {
 
 [53]浏览器与Node的事件循环(Event Loop)有何区别?: *https://zhuanlan.zhihu.com/p/54882306*
 
-[54]深入理解 JavaScript Event Loop: *https://zhuanlan.zhihu.com/p/34229323*
+[54]深入理解 JavaScript Event Loop: *https://zhuanlan.zhihu.com/p/34229323*  ✅
 
 [55]The Node.js Event Loop, Timers, and process.nextTick(): *https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/*
 
