@@ -158,6 +158,7 @@
 - 模块化
 
   - [CommonJS 和 ES6 Module 究竟有什么区别？](https://juejin.cn/post/6844904080955932680)
+  - [聊聊什么是CommonJs和Es Module及它们的区别](https://juejin.cn/post/6938581764432461854?utm_source=gold_browser_extension)
   - [JavaScript 模块的循环加载](http://www.ruanyifeng.com/blog/2015/11/circular-dependency.html)
 
 - `es6`
@@ -243,6 +244,7 @@
 - [React 灵魂 23 问，你能答对几个？](https://mp.weixin.qq.com/s/AGY6ZV4gIuNX1HLsUbXbAg)
 - [React 开发必须知道的 34 个技巧【近1W字】](https://juejin.cn/post/6844903993278201870)
 - [如何对 React 函数式组件进行优化](https://juejin.cn/post/6844904000043614222)
+- [「2021」前端面试题之React篇](https://blog.csdn.net/qq_42033567/article/details/113850143)
 
 ### Axios
 
