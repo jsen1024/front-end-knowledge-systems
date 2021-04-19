@@ -1,4 +1,4 @@
-## 从new一个Vue对象开始
+##  从new一个Vue对象开始
 
 ```javascript
 let vm = new Vue({
@@ -15,11 +15,7 @@ let vm = new Vue({
 
 template是如何被编译成真实环境中可用的HTML的？
 
-Vue指令又是如何执行的？
-
-带着这些疑问，我们从Vue的构造类开始看起。
-
-## Vue构造类
+##  
 
 ```javascript
 function Vue (options) {
