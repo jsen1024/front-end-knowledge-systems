@@ -1,7 +1,3 @@
-# 前端知识体系搭建
-
-
-
 ## javascript
 - [01.类型基础](https://github.com/charmJiang/front-end-knowledge-systems/blob/main/blog/javascript/01.%E7%B1%BB%E5%9E%8B%E5%9F%BA%E7%A1%80.md)
 
@@ -23,9 +19,3 @@
 - [跨域的几种形式](https://github.com/charmJiang/front-end-knowledge-systems/blob/main/browser/%E8%B7%A8%E5%9F%9F.md)
 
   
-
-
-
-## Vue
-
-1.`new vue`
