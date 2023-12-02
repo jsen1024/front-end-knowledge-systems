@@ -547,7 +547,7 @@ overrides 支持任意深度的嵌套。
 ```
 访问 [cdn.jsdelivr.net/npm/vue](https://link.juejin.cn/?target=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fvue "https://cdn.jsdelivr.net/npm/vue") 实际上获取到的是 jsdelivr 字段里配置的文件地址。
 
-![image-20231202125519161](/Users/mac/Library/Application Support/typora-user-images/image-20231202125519161.png)
+![image-20231202125519161](https://cdn.jsdelivr.net/gh/jsen1024/images@master/uPic/image-20231202125519161.png)
 
 ### browserslist
 设置项目的浏览器兼容情况。babel 和 autoprefixer 等工具会使用该配置对代码进行转换。当然你也可以使用 .browserslistrc 单文件配置。
