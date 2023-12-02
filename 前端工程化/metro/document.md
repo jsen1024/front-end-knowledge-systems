@@ -1071,7 +1071,7 @@ dynamicRequire(id) === localModule; // true
 
 ## 三、其他
 
-### 1.metro-Caching
+### 1.metro-Cachingz
 
 Metro的多个缓存机制，可以给我们带来很多方便，下面我们将解释一下缓存是如何工作的。
 
